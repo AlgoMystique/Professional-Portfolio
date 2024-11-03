@@ -1,17 +1,31 @@
 # Professional Portfolio
 
-Welcome to my professional portfolio! This site highlights my skills and experiences as a web developer.
+This is my professional portfolio, created using **HTML**, **CSS**, and **JavaScript**. The portfolio is designed to showcase my skills, education, and projects in a visually appealing and responsive manner.
+
+## Live Link
+
+You can view my live portfolio [here](https://algomystique.github.io/Professional-Portfolio/)
 
 ## Features
 
-- **Resume**: A detailed overview of my professional background and skills.
-- 
-- **Education**: Information about my academic qualifications and relevant coursework.
-- 
-- **Projects**: Showcases various projects I’ve completed, demonstrating my abilities in web development.
-- 
-- **Tools Used**: This portfolio is built using **HTML**, **CSS**, and **JavaScript**. It is fully responsive for all devices, ensuring a great user experience.
-- 
-- **Contact Form**: You can reach out to me through the message form, which is powered by **Basin** for seamless submission.
+- **Resume**: A comprehensive overview of my professional experience, skills, and accomplishments.
+- **Education**: Details about my academic background and relevant coursework.
+- **Projects**: A showcase of projects that highlight my development skills, including descriptions and technologies used.
+- **Responsive Design**: The portfolio is fully responsive, ensuring a great viewing experience on all devices, from desktops to smartphones.
+- **Contact Form**: Users can reach out to me through a contact form powered by **Basin**, which allows for easy message submission.
 
-Thank you for visiting my portfolio! I look forward to connecting with you.
+## Technologies Used
+
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Basin** (for contact form submission)
+
+## How to Use
+
+1. Clone the repository to your local machine.
+2. Open the `index.html` file in your web browser to view the portfolio.
+3. Navigate through the sections to explore my resume, education, and projects.
+4. Use the contact form to send me a message, which will be submitted via Basin.
+
+Thank you for checking out my portfolio! I look forward to connecting with you.
