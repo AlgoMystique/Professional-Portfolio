@@ -2,9 +2,6 @@
 
 This is my professional portfolio, created using **HTML**, **CSS**, and **JavaScript**. The portfolio is designed to showcase my skills, education, and projects in a visually appealing and responsive manner.
 
-## Live Link
-
-You can view my live portfolio [here](https://algomystique.github.io/Professional-Portfolio/)
 
 ## Features
 
