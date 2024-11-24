@@ -25,5 +25,7 @@ This is my professional portfolio, created using **HTML**, **CSS**, and **JavaSc
 3. Navigate through the sections to explore my resume, education, and projects.
 4. Use the contact form to send me a message, which will be submitted via Basin.
 
-## Live Demo - [(https://algomystique.github.io/Professional-Portfolio)]
+## Live Demo:
+[Professional Portfolio](https://algomystique.github.io/Professional-Portfolio)
+
 Thank you for checking out my portfolio! I look forward to connecting with you.
